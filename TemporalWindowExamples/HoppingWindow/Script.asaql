@@ -1,0 +1,20 @@
+﻿with Telemetry as (
+    select
+        R.IoTHub.ConnectionDeviceId as Id,
+        R.IoTHub.EnqueuedTime as Time,
+        R.reading.value
+    from
+        [local-input] as R timestamp by R.IoTHub.EnqueuedTime
+), 
+TelemetryAggregated as (
+    select
+        R.Id,
+        System.Timestamp() as HoppingWindow,
+        uda.SliptAndAggregateHoppingWindowValues(R.value)
+    from
+        Telemetry as R 
+    group by
+        R.Id, HoppingWindow(second, 120, 60)
+)
+
+select * into Test from TelemetryAggregated

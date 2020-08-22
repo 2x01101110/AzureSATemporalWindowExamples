@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TemporalWindowExamples", "TemporalWindowExamples", "{62767D6E-6B46-4EDA-89AF-3C4895F26AB8}"
+EndProject
+Project("{E6C563F2-BDC2-4A24-ACBF-01715157DCBB}") = "TumblingWindow", "TemporalWindowExamples\TumblingWindow\TumblingWindow.asaproj", "{0F38C15C-79BB-4FC9-9EC4-4A8131FB835E}"
+EndProject
+Project("{E6C563F2-BDC2-4A24-ACBF-01715157DCBB}") = "HoppingWindow", "TemporalWindowExamples\HoppingWindow\HoppingWindow.asaproj", "{5B9F63B1-22EA-4929-916F-46694E9648B6}"
+EndProject
+Project("{E6C563F2-BDC2-4A24-ACBF-01715157DCBB}") = "SlidingWindow", "TemporalWindowExamples\SlidingWindow\SlidingWindow.asaproj", "{2D1D1454-48C0-4DEE-A88A-289E417B44E6}"
+EndProject
+Project("{E6C563F2-BDC2-4A24-ACBF-01715157DCBB}") = "SessionWindow", "TemporalWindowExamples\SessionWindow\SessionWindow.asaproj", "{5A35F169-8886-41A8-AA26-549EBC643CF7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReferenceData", "ReferenceData", "{DA4A458E-ABDA-435F-89C2-1AB14DED63A0}"
+	ProjectSection(SolutionItems) = preProject
+		ReferenceData\reference-data-script.js = ReferenceData\reference-data-script.js
+		ReferenceData\reference-data.json = ReferenceData\reference-data.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F38C15C-79BB-4FC9-9EC4-4A8131FB835E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F38C15C-79BB-4FC9-9EC4-4A8131FB835E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F38C15C-79BB-4FC9-9EC4-4A8131FB835E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F38C15C-79BB-4FC9-9EC4-4A8131FB835E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B9F63B1-22EA-4929-916F-46694E9648B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B9F63B1-22EA-4929-916F-46694E9648B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B9F63B1-22EA-4929-916F-46694E9648B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B9F63B1-22EA-4929-916F-46694E9648B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D1D1454-48C0-4DEE-A88A-289E417B44E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D1D1454-48C0-4DEE-A88A-289E417B44E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D1D1454-48C0-4DEE-A88A-289E417B44E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D1D1454-48C0-4DEE-A88A-289E417B44E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A35F169-8886-41A8-AA26-549EBC643CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A35F169-8886-41A8-AA26-549EBC643CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A35F169-8886-41A8-AA26-549EBC643CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A35F169-8886-41A8-AA26-549EBC643CF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0F38C15C-79BB-4FC9-9EC4-4A8131FB835E} = {62767D6E-6B46-4EDA-89AF-3C4895F26AB8}
+		{5B9F63B1-22EA-4929-916F-46694E9648B6} = {62767D6E-6B46-4EDA-89AF-3C4895F26AB8}
+		{2D1D1454-48C0-4DEE-A88A-289E417B44E6} = {62767D6E-6B46-4EDA-89AF-3C4895F26AB8}
+		{5A35F169-8886-41A8-AA26-549EBC643CF7} = {62767D6E-6B46-4EDA-89AF-3C4895F26AB8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C08B67E-BF72-4D31-8B43-B209B92BBC8D}
+	EndGlobalSection
+EndGlobal

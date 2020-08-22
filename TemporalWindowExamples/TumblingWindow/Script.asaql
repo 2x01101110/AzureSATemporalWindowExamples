@@ -1,0 +1,23 @@
+﻿with Telemetry as (
+    select
+        R.IoTHub.ConnectionDeviceId as Id,
+        R.IoTHub.EnqueuedTime as Time,
+        R.reading.value
+    from
+        [local-input] as R timestamp by R.IoTHub.EnqueuedTime
+), 
+TelemetryAggregated as (
+    select
+        R.Id,
+        System.Timestamp() as TumblingWindow,
+        avg(R.value),
+        min(R.value),
+        max(R.value),
+        count(*)
+    from
+        Telemetry as R
+    group by
+        R.Id, TumblingWindow(second, 60)
+)
+
+select * into test from TelemetryAggregated
