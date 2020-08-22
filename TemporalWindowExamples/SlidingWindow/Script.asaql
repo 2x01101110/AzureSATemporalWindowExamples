@@ -1,1 +1,33 @@
-﻿
+﻿with Telemetry as (
+    select
+        R.IoTHub.ConnectionDeviceId as Id,
+        R.IoTHub.EnqueuedTime as Time,
+        R.reading.value
+    from
+        [local-input] as R timestamp by R.IoTHub.EnqueuedTime
+), 
+-- Find all sensors which have the average value above 37 in the last 1 minute
+TelemetryAggregated as (
+    select
+        R.Id,
+        DateAdd(minute, -1, System.Timestamp()) AS Start,
+        System.Timestamp() as [End],
+        avg(R.value) as Average
+    from
+        Telemetry as R
+    group by
+        R.Id, slidingwindow(minute, 1)
+    having
+        avg(R.value) > 37.5
+)
+
+select 
+    R.Id,
+    R.Start,
+    R.[End],
+    R.Average,
+    lag(R.Average) over (partition by R.id limit duration(minute, 1)) as LastAverage
+into 
+    test 
+from 
+    TelemetryAggregated as R

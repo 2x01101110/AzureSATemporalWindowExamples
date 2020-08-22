@@ -1,0 +1,11 @@
+﻿{
+  "InputAlias": "local-input",
+  "Type": "Data Stream",
+  "Format": "Json",
+  "FilePath": "..\\..\\..\\ReferenceData\\reference-data.json",
+  "SerializationDllPath": null,
+  "SerializationClassName": null,
+  "SerializationDllPathInLocal": null,
+  "Sample": "{\r\n  \"reading\": {\r\n    \"value\": 36.86\r\n  },\r\n  \"EventProcessedUtcTime\": \"2020-08-21T21:00:15.250Z\",\r\n  \"PartitionId\": 2,\r\n  \"EventEnqueuedUtcTime\": \"2020-08-21T21:00:15.074Z\",\r\n  \"IoTHub\": {\r\n    \"MessageId\": null,\r\n    \"CorrelationId\": null,\r\n    \"ConnectionDeviceId\": \"Simulated_Device\",\r\n    \"ConnectionDeviceGenerationId\": \"636973266921021569\",\r\n    \"EnqueuedTime\": \"2020-08-21T21:00:15.016Z\",\r\n    \"StreamId\": null\r\n  }\r\n}",
+  "ScriptType": "InputMock"
+}

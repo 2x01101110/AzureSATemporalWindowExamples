@@ -25,8 +25,8 @@
     </ScriptCode>
   </ItemGroup>
   <ItemGroup>
-    <Configure Include="Inputs\Input.json">
-      <SubType>Input</SubType>
+    <Configure Include="Inputs\local-input.json">
+      <SubType>InputMock</SubType>
     </Configure>
     <Configure Include="Outputs\Output.json">
       <SubType>Output</SubType>

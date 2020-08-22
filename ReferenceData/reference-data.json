@@ -1,1 +1,965 @@
-[{"reading":{"value":36.86},"EventProcessedUtcTime":"2020-08-21T21:00:15.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:00:15.074Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:00:15.016Z","StreamId":null}},{"reading":{"value":34.95},"EventProcessedUtcTime":"2020-08-21T21:00:30.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:00:30.103Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:00:30.037Z","StreamId":null}},{"reading":{"value":34.6},"EventProcessedUtcTime":"2020-08-21T21:00:45.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:00:45.002Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:00:45.007Z","StreamId":null}},{"reading":{"value":36.91},"EventProcessedUtcTime":"2020-08-21T21:01:00.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:01:00.131Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:01:00.036Z","StreamId":null}},{"reading":{"value":36.02},"EventProcessedUtcTime":"2020-08-21T21:01:15.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:01:15.104Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:01:15.027Z","StreamId":null}},{"reading":{"value":36.2},"EventProcessedUtcTime":"2020-08-21T21:01:30.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:01:30.022Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:01:30.032Z","StreamId":null}},{"reading":{"value":35.06},"EventProcessedUtcTime":"2020-08-21T21:01:45.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:01:45.003Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:01:45.004Z","StreamId":null}},{"reading":{"value":34.45},"EventProcessedUtcTime":"2020-08-21T21:02:00.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:02:00.118Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:02:00.005Z","StreamId":null}},{"reading":{"value":34.41},"EventProcessedUtcTime":"2020-08-21T21:02:15.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:02:15.071Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:02:15.027Z","StreamId":null}},{"reading":{"value":32.75},"EventProcessedUtcTime":"2020-08-21T21:02:30.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:02:30.051Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:02:30.033Z","StreamId":null}},{"reading":{"value":37.49},"EventProcessedUtcTime":"2020-08-21T21:02:45.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:02:45.027Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:02:45.019Z","StreamId":null}},{"reading":{"value":35.99},"EventProcessedUtcTime":"2020-08-21T21:03:00.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:03:00.121Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:03:00.037Z","StreamId":null}},{"reading":{"value":38.78},"EventProcessedUtcTime":"2020-08-21T21:03:15.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:03:15.056Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:03:15.035Z","StreamId":null}},{"reading":{"value":38.09},"EventProcessedUtcTime":"2020-08-21T21:03:30.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:03:30.139Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:03:30.002Z","StreamId":null}},{"reading":{"value":35.69},"EventProcessedUtcTime":"2020-08-21T21:03:45.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:03:45.131Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:03:45.027Z","StreamId":null}},{"reading":{"value":35.3},"EventProcessedUtcTime":"2020-08-21T21:04:00.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:04:00.035Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:04:00.021Z","StreamId":null}},{"reading":{"value":32.79},"EventProcessedUtcTime":"2020-08-21T21:04:15.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:04:15.030Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:04:15.032Z","StreamId":null}},{"reading":{"value":36.28},"EventProcessedUtcTime":"2020-08-21T21:04:30.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:04:30.115Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:04:30.009Z","StreamId":null}},{"reading":{"value":37.72},"EventProcessedUtcTime":"2020-08-21T21:04:45.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:04:45.104Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:04:45.028Z","StreamId":null}},{"reading":{"value":33.59},"EventProcessedUtcTime":"2020-08-21T21:05:00.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:05:00.104Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:05:00.047Z","StreamId":null}},{"reading":{"value":36.67},"EventProcessedUtcTime":"2020-08-21T21:05:15.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:05:15.011Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:05:15.013Z","StreamId":null}},{"reading":{"value":33.29},"EventProcessedUtcTime":"2020-08-21T21:05:30.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:05:30.088Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:05:30.019Z","StreamId":null}},{"reading":{"value":35.99},"EventProcessedUtcTime":"2020-08-21T21:05:45.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:05:45.098Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:05:45.038Z","StreamId":null}},{"reading":{"value":32.17},"EventProcessedUtcTime":"2020-08-21T21:06:00.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:06:00.142Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:06:00.023Z","StreamId":null}},{"reading":{"value":34.37},"EventProcessedUtcTime":"2020-08-21T21:06:15.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:06:15.077Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:06:15.006Z","StreamId":null}},{"reading":{"value":37.11},"EventProcessedUtcTime":"2020-08-21T21:06:30.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:06:30.069Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:06:30.013Z","StreamId":null}},{"reading":{"value":36.49},"EventProcessedUtcTime":"2020-08-21T21:06:45.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:06:45.059Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:06:45.022Z","StreamId":null}},{"reading":{"value":34.15},"EventProcessedUtcTime":"2020-08-21T21:07:00.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:07:00.129Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:07:00.002Z","StreamId":null}},{"reading":{"value":33.13},"EventProcessedUtcTime":"2020-08-21T21:07:15.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:07:15.005Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:07:15.040Z","StreamId":null}},{"reading":{"value":39.94},"EventProcessedUtcTime":"2020-08-21T21:07:30.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:07:30.120Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:07:30.022Z","StreamId":null}},{"reading":{"value":38.67},"EventProcessedUtcTime":"2020-08-21T21:07:45.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:07:45.123Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:07:45.038Z","StreamId":null}},{"reading":{"value":31.69},"EventProcessedUtcTime":"2020-08-21T21:08:00.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:08:00.113Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:08:00.049Z","StreamId":null}},{"reading":{"value":32.63},"EventProcessedUtcTime":"2020-08-21T21:08:15.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:08:15.086Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:08:15.022Z","StreamId":null}},{"reading":{"value":36.08},"EventProcessedUtcTime":"2020-08-21T21:08:30.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:08:30.017Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:08:30.039Z","StreamId":null}},{"reading":{"value":35.31},"EventProcessedUtcTime":"2020-08-21T21:08:45.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:08:45.031Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:08:45.019Z","StreamId":null}},{"reading":{"value":33.77},"EventProcessedUtcTime":"2020-08-21T21:09:00.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:09:00.068Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:09:00.004Z","StreamId":null}},{"reading":{"value":33.73},"EventProcessedUtcTime":"2020-08-21T21:09:15.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:09:15.116Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:09:15.008Z","StreamId":null}},{"reading":{"value":34.81},"EventProcessedUtcTime":"2020-08-21T21:09:30.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:09:30.012Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:09:30.029Z","StreamId":null}},{"reading":{"value":39.63},"EventProcessedUtcTime":"2020-08-21T21:09:45.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:09:45.049Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:09:45.002Z","StreamId":null}},{"reading":{"value":35.26},"EventProcessedUtcTime":"2020-08-21T21:10:00.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:10:00.044Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:10:00.042Z","StreamId":null}},{"reading":{"value":30.81},"EventProcessedUtcTime":"2020-08-21T21:10:15.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:10:15.061Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:10:15.034Z","StreamId":null}},{"reading":{"value":31.38},"EventProcessedUtcTime":"2020-08-21T21:10:30.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:10:30.147Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:10:30.002Z","StreamId":null}},{"reading":{"value":40.45},"EventProcessedUtcTime":"2020-08-21T21:10:45.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:10:45.045Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:10:45.038Z","StreamId":null}},{"reading":{"value":38.3},"EventProcessedUtcTime":"2020-08-21T21:11:00.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:11:00.089Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:11:00.006Z","StreamId":null}},{"reading":{"value":33.11},"EventProcessedUtcTime":"2020-08-21T21:11:15.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:11:15.101Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:11:15.044Z","StreamId":null}},{"reading":{"value":34.92},"EventProcessedUtcTime":"2020-08-21T21:11:30.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:11:30.070Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:11:30.031Z","StreamId":null}},{"reading":{"value":33.04},"EventProcessedUtcTime":"2020-08-21T21:11:45.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:11:45.086Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:11:45.020Z","StreamId":null}},{"reading":{"value":38.5},"EventProcessedUtcTime":"2020-08-21T21:12:00.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:12:00.009Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:12:00.000Z","StreamId":null}},{"reading":{"value":35.46},"EventProcessedUtcTime":"2020-08-21T21:12:15.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:12:15.072Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:12:15.001Z","StreamId":null}},{"reading":{"value":31.75},"EventProcessedUtcTime":"2020-08-21T21:12:30.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:12:30.044Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:12:30.033Z","StreamId":null}},{"reading":{"value":30.22},"EventProcessedUtcTime":"2020-08-21T21:12:45.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:12:45.096Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:12:45.044Z","StreamId":null}},{"reading":{"value":39.33},"EventProcessedUtcTime":"2020-08-21T21:13:00.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:13:00.058Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:13:00.006Z","StreamId":null}},{"reading":{"value":32.77},"EventProcessedUtcTime":"2020-08-21T21:13:15.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:13:15.145Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:13:15.025Z","StreamId":null}},{"reading":{"value":34.36},"EventProcessedUtcTime":"2020-08-21T21:13:30.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:13:30.092Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:13:30.001Z","StreamId":null}},{"reading":{"value":33.4},"EventProcessedUtcTime":"2020-08-21T21:13:45.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:13:45.122Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:13:45.010Z","StreamId":null}},{"reading":{"value":39.79},"EventProcessedUtcTime":"2020-08-21T21:14:00.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:14:00.105Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:14:00.045Z","StreamId":null}},{"reading":{"value":40.61},"EventProcessedUtcTime":"2020-08-21T21:14:15.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:14:15.144Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:14:15.016Z","StreamId":null}},{"reading":{"value":32.12},"EventProcessedUtcTime":"2020-08-21T21:14:30.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:14:30.021Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:14:30.048Z","StreamId":null}},{"reading":{"value":31.78},"EventProcessedUtcTime":"2020-08-21T21:14:45.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:14:45.030Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:14:45.022Z","StreamId":null}},{"reading":{"value":36.11},"EventProcessedUtcTime":"2020-08-21T21:15:00.250Z","PartitionId":2,"EventEnqueuedUtcTime":"2020-08-21T21:15:00.049Z","IoTHub":{"MessageId":null,"CorrelationId":null,"ConnectionDeviceId":"Simulated_Device","ConnectionDeviceGenerationId":"636973266921021569","EnqueuedTime":"2020-08-21T21:15:00.034Z","StreamId":null}}]
+[
+  {
+    "reading": {
+      "value": 36.86
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:00:15.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:00:15.074Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:00:15.016Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 34.95
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:00:30.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:00:30.103Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:00:30.037Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 34.6
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:00:45.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:00:45.002Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:00:45.007Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 36.91
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:01:00.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:01:00.131Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:01:00.036Z",
+      "StreamId": null
+    }
+  },
+
+  {
+    "reading": {
+      "value": 36.02
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:01:15.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:01:15.104Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:01:15.027Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 36.2
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:01:30.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:01:30.022Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:01:30.032Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 35.06
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:01:45.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:01:45.003Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:01:45.004Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 34.45
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:02:00.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:02:00.118Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:02:00.005Z",
+      "StreamId": null
+    }
+  },
+
+  {
+    "reading": {
+      "value": 34.41
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:02:15.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:02:15.071Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:02:15.027Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 32.75
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:02:30.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:02:30.051Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:02:30.033Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 37.49
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:02:45.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:02:45.027Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:02:45.019Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 35.99
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:03:00.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:03:00.121Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:03:00.037Z",
+      "StreamId": null
+    }
+  },
+
+  {
+    "reading": {
+      "value": 38.78
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:03:15.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:03:15.056Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:03:15.035Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 38.09
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:03:30.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:03:30.139Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:03:30.002Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 35.69
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:03:45.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:03:45.131Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:03:45.027Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 35.3
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:04:00.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:04:00.035Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:04:00.021Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 32.79
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:04:15.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:04:15.030Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:04:15.032Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 36.28
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:04:30.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:04:30.115Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:04:30.009Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 37.72
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:04:45.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:04:45.104Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:04:45.028Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 33.59
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:05:00.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:05:00.104Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:05:00.047Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 36.67
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:05:15.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:05:15.011Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:05:15.013Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 33.29
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:05:30.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:05:30.088Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:05:30.019Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 35.99
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:05:45.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:05:45.098Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:05:45.038Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 32.17
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:06:00.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:06:00.142Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:06:00.023Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 34.37
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:06:15.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:06:15.077Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:06:15.006Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 37.11
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:06:30.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:06:30.069Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:06:30.013Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 36.49
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:06:45.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:06:45.059Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:06:45.022Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 34.15
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:07:00.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:07:00.129Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:07:00.002Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 33.13
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:07:15.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:07:15.005Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:07:15.040Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 39.94
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:07:30.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:07:30.120Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:07:30.022Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 38.67
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:07:45.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:07:45.123Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:07:45.038Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 31.69
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:08:00.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:08:00.113Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:08:00.049Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 32.63
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:08:15.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:08:15.086Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:08:15.022Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 36.08
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:08:30.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:08:30.017Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:08:30.039Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 35.31
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:08:45.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:08:45.031Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:08:45.019Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 33.77
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:09:00.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:09:00.068Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:09:00.004Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 33.73
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:09:15.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:09:15.116Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:09:15.008Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 34.81
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:09:30.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:09:30.012Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:09:30.029Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 39.63
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:09:45.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:09:45.049Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:09:45.002Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 35.26
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:10:00.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:10:00.044Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:10:00.042Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 30.81
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:10:15.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:10:15.061Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:10:15.034Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 31.38
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:10:30.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:10:30.147Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:10:30.002Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 40.45
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:10:45.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:10:45.045Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:10:45.038Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 38.3
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:11:00.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:11:00.089Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:11:00.006Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 33.11
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:11:15.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:11:15.101Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:11:15.044Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 34.92
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:11:30.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:11:30.070Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:11:30.031Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 33.04
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:11:45.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:11:45.086Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:11:45.020Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 38.5
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:12:00.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:12:00.009Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:12:00.000Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 35.46
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:12:15.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:12:15.072Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:12:15.001Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 31.75
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:12:30.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:12:30.044Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:12:30.033Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 30.22
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:12:45.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:12:45.096Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:12:45.044Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 39.33
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:13:00.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:13:00.058Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:13:00.006Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 32.77
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:13:15.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:13:15.145Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:13:15.025Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 34.36
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:13:30.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:13:30.092Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:13:30.001Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 33.4
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:13:45.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:13:45.122Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:13:45.010Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 39.79
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:14:00.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:14:00.105Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:14:00.045Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 40.61
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:14:15.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:14:15.144Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:14:15.016Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 32.12
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:14:30.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:14:30.021Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:14:30.048Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 31.78
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:14:45.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:14:45.030Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:14:45.022Z",
+      "StreamId": null
+    }
+  },
+  {
+    "reading": {
+      "value": 36.11
+    },
+    "EventProcessedUtcTime": "2020-08-21T21:15:00.250Z",
+    "PartitionId": 2,
+    "EventEnqueuedUtcTime": "2020-08-21T21:15:00.049Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "Simulated_Device",
+      "ConnectionDeviceGenerationId": "636973266921021569",
+      "EnqueuedTime": "2020-08-21T21:15:00.034Z",
+      "StreamId": null
+    }
+  }
+]

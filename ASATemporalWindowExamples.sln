@@ -15,8 +15,8 @@ Project("{E6C563F2-BDC2-4A24-ACBF-01715157DCBB}") = "SessionWindow", "TemporalWi
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReferenceData", "ReferenceData", "{DA4A458E-ABDA-435F-89C2-1AB14DED63A0}"
 	ProjectSection(SolutionItems) = preProject
-		ReferenceData\reference-data-script.js = ReferenceData\reference-data-script.js
 		ReferenceData\reference-data.json = ReferenceData\reference-data.json
+		ReferenceData\tumbling-hopping-script.js = ReferenceData\tumbling-hopping-script.js
 	EndProjectSection
 EndProject
 Global
